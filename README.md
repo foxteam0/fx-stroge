@@ -1,4 +1,4 @@
-# Proje Adı
+# fx-stroge
 
 ## Proje Hakkında
 
