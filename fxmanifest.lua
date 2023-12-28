@@ -1,7 +1,7 @@
 fx_version'cerulean'
 game 'gta5'
 
-description 'QB-Weed convert from ass ESX Lunny Shit'
+description 'fx-stroge'
 version '1.0.0'
 shared_scripts {
   '@qb-core/shared/locale.lua',
