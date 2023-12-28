@@ -3,7 +3,7 @@
 ## Proje Hakkında
 
 Bu proje, [qb-core](https://github.com/qbcore-framework/qb-core), [qb-inventory](https://github.com/qbcore-framework/qb-inventory), [qb-menu](https://github.com/qbcore-framework/qb-menu) ve [qb-target](https://github.com/qbcore-framework/qb-target) alt yapılarına dayanmaktadır. İlgili depoları indirip projenize eklemek için aşağıdaki terminal komutlarını kullanabilirsiniz:
-
+[MAP](https://github.com/foxteam0/fx-strogemap)
 ```bash
 git submodule add https://github.com/qbcore-framework/qb-core resources/[proje-adı]/qb-core
 git submodule add https://github.com/qbcore-framework/qb-inventory resources/[proje-adı]/qb-inventory
