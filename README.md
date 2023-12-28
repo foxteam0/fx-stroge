@@ -20,3 +20,5 @@ Proje ile ilgili sorularınız veya sorunlarınız mı var? Lütfen GitHub Issue
 
 [Video](https://youtu.be/ccnDcbZ8d5g)
 Proje ile ilgili detaylı bir videoyu buradan izleyebilirsiniz.
+
+[DİSCORD](https://discord.gg/MXyRaj6u86)
